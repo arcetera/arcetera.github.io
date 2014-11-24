@@ -1,0 +1,23 @@
+Package: net.angelxwind.nds4ios
+Version: 2.0-288-gdc4bfd2
+Priority: optional
+Section: Games
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 5.0)
+Conflicts: com.rock88dev.nds4ios, net.angelxwind.nds4ios-testing, net.angelxwind.nds4ios-768h
+Replaces: com.rock88dev.nds4ios, net.angelxwind.nds4ios-testing, net.angelxwind.nds4ios-768h
+Architecture: iphoneos-arm
+Filename: debs//com.arcticsn0w.nds4ios.deb
+Size: 1812566
+Installed-Size: 12033
+MD5sum: 891001bcd86e05205035b93bea20bcad
+Description: multi-platform emulator, DeSmuME
+sponsor: thebigboss.org <http://thebigboss.org>
+icon: file:///Applications/nds4ios.app/Icon.png
+author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
+dev: angelxwind
+tag: purpose::uikit
+name: nds4ios (Stable)
+depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
+
