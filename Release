@@ -1,0 +1,8 @@
+Origin: freezingrepo
+Label: arcticsn0w
+Suite: stable
+Version: 1.0
+Codename: freezingrepo
+Architectures: iphoneos-arm
+Components: main
+Description: arcticsn0w's repo with betas and stuff that got taken down (like nds4ios and stuff)
