@@ -1,3 +1,16 @@
+Package: com.rileytestut.gba4ios
+Version: 2.1~beta1
+Section: Games
+Maintainer: Abraham Levine
+Architecture: iphoneos-arm
+Filename: debs//com.arcticsn0w.gba4ios.deb
+Size: 6148806
+MD5sum: e0211515521d4ae4b9c025db5bee9033
+Description: A Gameboy Advance emulator for iOS
+homepage: http://gba4iosapp.com
+name: GBA4iOS
+author: Riley Testut
+
 Package: net.angelxwind.nds4ios
 Version: 2.0-288-gdc4bfd2
 Priority: optional
@@ -12,12 +25,12 @@ Size: 1812566
 Installed-Size: 12033
 MD5sum: 891001bcd86e05205035b93bea20bcad
 Description: multi-platform emulator, DeSmuME
-depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
-homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
-name: nds4ios (Stable)
-dev: angelxwind
-tag: purpose::uikit
-icon: file:///Applications/nds4ios.app/Icon.png
 sponsor: thebigboss.org <http://thebigboss.org>
+dev: angelxwind
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
+tag: purpose::uikit
+depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
+icon: file:///Applications/nds4ios.app/Icon.png
+name: nds4ios (Stable)
 author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
 
