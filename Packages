@@ -1,16 +1,16 @@
 Package: com.arcticsn0w.basictweak
-Version: 0.1~alpha0-4
+Version: 0.1~alpha0-1
 Section: Tweaks
 Maintainer: Abraham Levine
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs//com.arcticsn0w.basictweak_0.1~alpha0-4_iphoneos-arm.deb
-Size: 6132
+Filename: debs//com.arcticsn0w.basictweak_0.1~alpha0-1_iphoneos-arm.deb
+Size: 6126
 Installed-Size: 112
-MD5sum: df9f3747bfbe571ab4cd410b40c92ab8
+MD5sum: 9bc706d627065d472aee4c111e8a5332
 Description: changes slider text because why not
-name: BasicTweak
 author: Abraham Levine
+name: BasicTweak
 
 Package: com.rileytestut.gba4ios
 Version: 2.1~beta1
@@ -21,9 +21,9 @@ Filename: debs//com.arcticsn0w.gba4ios.deb
 Size: 6148806
 MD5sum: e0211515521d4ae4b9c025db5bee9033
 Description: A Gameboy Advance emulator for iOS
-homepage: http://gba4iosapp.com
-name: GBA4iOS
 author: Riley Testut
+name: GBA4iOS
+homepage: http://gba4iosapp.com
 
 Package: net.angelxwind.nds4ios
 Version: 2.0-288-gdc4bfd2
@@ -39,12 +39,12 @@ Size: 1812566
 Installed-Size: 12033
 MD5sum: 891001bcd86e05205035b93bea20bcad
 Description: multi-platform emulator, DeSmuME
+author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
 depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
 icon: file:///Applications/nds4ios.app/Icon.png
-tag: purpose::uikit
-homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
 name: nds4ios (Stable)
-dev: angelxwind
 sponsor: thebigboss.org <http://thebigboss.org>
-author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
+dev: angelxwind
+tag: purpose::uikit
 
