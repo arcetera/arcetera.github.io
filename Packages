@@ -1,3 +1,17 @@
+Package: com.arcticsn0w.basictweak
+Version: 0.1~alpha0-4
+Section: Tweaks
+Maintainer: Abraham Levine
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.arcticsn0w.basictweak_0.1~alpha0-4_iphoneos-arm.deb
+Size: 6132
+Installed-Size: 112
+MD5sum: df9f3747bfbe571ab4cd410b40c92ab8
+Description: changes slider text because why not
+name: BasicTweak
+author: Abraham Levine
+
 Package: com.rileytestut.gba4ios
 Version: 2.1~beta1
 Section: Games
@@ -25,12 +39,12 @@ Size: 1812566
 Installed-Size: 12033
 MD5sum: 891001bcd86e05205035b93bea20bcad
 Description: multi-platform emulator, DeSmuME
-sponsor: thebigboss.org <http://thebigboss.org>
-dev: angelxwind
-homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
-tag: purpose::uikit
 depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
 icon: file:///Applications/nds4ios.app/Icon.png
+tag: purpose::uikit
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
 name: nds4ios (Stable)
+dev: angelxwind
+sponsor: thebigboss.org <http://thebigboss.org>
 author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
 
