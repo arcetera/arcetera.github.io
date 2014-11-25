@@ -12,12 +12,26 @@ Size: 1812566
 Installed-Size: 12033
 MD5sum: 891001bcd86e05205035b93bea20bcad
 Description: multi-platform emulator, DeSmuME
+depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
+tag: purpose::uikit
 sponsor: thebigboss.org <http://thebigboss.org>
-icon: file:///Applications/nds4ios.app/Icon.png
 author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
+icon: file:///Applications/nds4ios.app/Icon.png
 dev: angelxwind
-tag: purpose::uikit
 name: nds4ios (Stable)
-depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
+
+Package: org.thebigboss.displaycandy
+Version: 1.0.7-1
+Section: Tweaks
+Maintainer: Josh Kugelmann
+Depends: mobilesubstrate, com.rpetrich.layersnapshotter, preferenceloader
+Architecture: iphoneos-arm
+Filename: debs//org.thebigboss.displaycandy_1.0.7-1_iphoneos-arm.deb
+Size: 44612
+Installed-Size: 132
+MD5sum: 93b0b3166c0bf873f50d16912e93ccc5
+Description: Custom launch/suspend/switch animations.
+author: Josh Kugelmann
+name: DisplayCandy
 
