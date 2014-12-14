@@ -13,17 +13,18 @@ author: Abraham Levine
 name: BasicTweak
 
 Package: com.arcticsn0w.markasread8
-Version: 0.0.2-1-1
+Version: 0.0.2-1-2
 Section: Tweaks
 Maintainer: arcticsn0w <arcticsn0wdev@gmail.com>
 Architecture: iphoneos-arm
-Filename: debs//com.arcticsn0w.markasread8_0.0.2-1-1_iphoneos-arm.deb
-Size: 5480
+Filename: debs//com.arcticsn0w.markasread8_0.0.2-1-2_iphoneos-arm.deb
+Size: 5514
 Installed-Size: 88
-MD5sum: 22cbcf30342b23387446c20044379352
+MD5sum: 0e18157bb89c8e16bfffad0b0e672e3d
 Description: MarkAsRead7 recompiled for iOS 8. PS: I'm not the original dev. All credits go to DjKira.
 author: DjKira
 name: MarkAsRead7 (iOS 8)
+depiction: arcticsn0w.github.io/depictions?dep=com.arcticsn0w.markasread8
 
 Package: com.rileytestut.gba4ios
 Version: 2.1~beta1
@@ -34,9 +35,9 @@ Filename: debs//com.arcticsn0w.gba4ios.deb
 Size: 6148806
 MD5sum: e0211515521d4ae4b9c025db5bee9033
 Description: A Gameboy Advance emulator for iOS
-homepage: http://gba4iosapp.com
 author: Riley Testut
 name: GBA4iOS
+homepage: http://gba4iosapp.com
 
 Package: net.angelxwind.nds4ios
 Version: 2.0-288-gdc4bfd2
@@ -52,12 +53,12 @@ Size: 1812566
 Installed-Size: 12033
 MD5sum: 891001bcd86e05205035b93bea20bcad
 Description: multi-platform emulator, DeSmuME
-depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
-sponsor: thebigboss.org <http://thebigboss.org>
-dev: angelxwind
-homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
 author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
 tag: purpose::uikit
 name: nds4ios (Stable)
+sponsor: thebigboss.org <http://thebigboss.org>
+dev: angelxwind
+depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
 icon: file:///Applications/nds4ios.app/Icon.png
 
