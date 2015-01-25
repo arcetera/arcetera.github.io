@@ -27,18 +27,19 @@ depiction: arcticsn0w.github.io/depictions?dep=com.arcticsn0w.markasread8.php
 name: MarkAsRead7 (iOS 8)
 
 Package: com.reddestdream.minimalhostsblocker
-Version: 4.4
+Version: 4.4.1
 Section: Tweaks
 Maintainer: arcticsn0w <arcticsn0wdev@gmail.com>
 Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic
 Architecture: iphoneos-arm
 Filename: debs//Minimal-Hosts-Blocker.deb
-Size: 18304
-MD5sum: 15300ccae75d32e5f3f971263cf79259
+Size: 18364
+MD5sum: 7191f4719c188aec0f96677492783746
 Description: A Minimalistic Ad Blocker!
-author: ReddestDream <reddestdream@gmail.com>
-name: Minimal Hosts Blocker
 homepage: http://www.reddit.com/r/jailbreak/comments/2t2swb/minimal_hosts_blocker_40_released
+author: ReddestDream <reddestdream@gmail.com>
+depiction: http://arcticsn0w.github.io/repodepictions/minimalhostsblocker.html
+name: Minimal Hosts Blocker
 
 Package: com.rileytestut.gba4ios
 Version: 2.1~beta1
@@ -49,9 +50,9 @@ Filename: debs//com.arcticsn0w.gba4ios.deb
 Size: 6148806
 MD5sum: e0211515521d4ae4b9c025db5bee9033
 Description: A Gameboy Advance emulator for iOS
+homepage: http://gba4iosapp.com
 author: Riley Testut
 name: GBA4iOS
-homepage: http://gba4iosapp.com
 
 Package: net.angelxwind.nds4ios
 Version: 2.0-288-gdc4bfd2
@@ -67,12 +68,12 @@ Size: 1812566
 Installed-Size: 12033
 MD5sum: 891001bcd86e05205035b93bea20bcad
 Description: multi-platform emulator, DeSmuME
-sponsor: thebigboss.org <http://thebigboss.org>
-icon: file:///Applications/nds4ios.app/Icon.png
-author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
-dev: angelxwind
 tag: purpose::uikit
-depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
-name: nds4ios (Stable)
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
+author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
+depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
+icon: file:///Applications/nds4ios.app/Icon.png
+dev: angelxwind
+sponsor: thebigboss.org <http://thebigboss.org>
+name: nds4ios (Stable)
 
