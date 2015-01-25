@@ -9,8 +9,8 @@ Size: 6126
 Installed-Size: 112
 MD5sum: 9bc706d627065d472aee4c111e8a5332
 Description: changes slider text because why not
-author: Abraham Levine
 name: BasicTweak
+author: Abraham Levine
 
 Package: com.arcticsn0w.markasread8
 Version: 0.0.2-1-2
@@ -22,19 +22,23 @@ Size: 5514
 Installed-Size: 88
 MD5sum: 0e18157bb89c8e16bfffad0b0e672e3d
 Description: MarkAsRead7 recompiled for iOS 8. PS: I'm not the original dev. All credits go to DjKira.
+name: MarkAsRead7 (iOS 8)
 depiction: arcticsn0w.github.io/depictions?dep=com.arcticsn0w.markasread8
 author: DjKira
-name: MarkAsRead7 (iOS 8)
 
-Package: com.myrepospace.ReddestDream.minimal
+Package: com.reddestdream.minimalhostsblocker
 Version: 4.3.4
+Section: Tweaks
+Maintainer: arcticsn0w <arcticsn0wdev@gmail.com>
+Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.yllier.blocker, com.yllier.blocker2, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic
 Architecture: iphoneos-arm
-Filename: debs//Minimal_Hosts_Blocker_434.deb
-Size: 4424
-MD5sum: 9b28f55d804965b95cf652f6ee474fda
-Description: A Minimalistic Ad-Blocker!
-author: ReddestDream <reddestdream@gmail.com>
+Filename: debs//com.reddestdream.minimalhostsblocker.deb
+Size: 5596
+MD5sum: 943fb5cfc3a46fa9432dc21c999ce038
+Description: A Minimalistic Ad Blocker!
 name: Minimal Hosts Blocker
+author: ReddestDream <reddestdream@gmail.com>
+homepage: http://www.reddit.com/r/jailbreak/comments/2t2swb/minimal_hosts_blocker_40_released
 
 Package: com.rileytestut.gba4ios
 Version: 2.1~beta1
@@ -45,9 +49,9 @@ Filename: debs//com.arcticsn0w.gba4ios.deb
 Size: 6148806
 MD5sum: e0211515521d4ae4b9c025db5bee9033
 Description: A Gameboy Advance emulator for iOS
-homepage: http://gba4iosapp.com
-author: Riley Testut
 name: GBA4iOS
+author: Riley Testut
+homepage: http://gba4iosapp.com
 
 Package: net.angelxwind.nds4ios
 Version: 2.0-288-gdc4bfd2
@@ -63,12 +67,12 @@ Size: 1812566
 Installed-Size: 12033
 MD5sum: 891001bcd86e05205035b93bea20bcad
 Description: multi-platform emulator, DeSmuME
+name: nds4ios (Stable)
 tag: purpose::uikit
-homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
-dev: angelxwind
+icon: file:///Applications/nds4ios.app/Icon.png
 sponsor: thebigboss.org <http://thebigboss.org>
 depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
-icon: file:///Applications/nds4ios.app/Icon.png
 author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
-name: nds4ios (Stable)
+dev: angelxwind
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
 
