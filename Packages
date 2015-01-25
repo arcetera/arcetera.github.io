@@ -26,6 +26,16 @@ author: DjKira
 name: MarkAsRead7 (iOS 8)
 depiction: arcticsn0w.github.io/depictions?dep=com.arcticsn0w.markasread8
 
+Package: com.myrepospace.ReddestDream.minimal
+Version: 4.3.4
+Architecture: iphoneos-arm
+Filename: debs//Minimal_Hosts_Blocker_434.deb
+Size: 4424
+MD5sum: 9b28f55d804965b95cf652f6ee474fda
+Description: A Minimalistic Ad-Blocker!
+author: ReddestDream <reddestdream@gmail.com>
+name: Minimal Hosts Blocker
+
 Package: com.rileytestut.gba4ios
 Version: 2.1~beta1
 Section: Games
@@ -53,12 +63,12 @@ Size: 1812566
 Installed-Size: 12033
 MD5sum: 891001bcd86e05205035b93bea20bcad
 Description: multi-platform emulator, DeSmuME
-author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
-tag: purpose::uikit
-name: nds4ios (Stable)
-sponsor: thebigboss.org <http://thebigboss.org>
 dev: angelxwind
+tag: purpose::uikit
+author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
+name: nds4ios (Stable)
+icon: file:///Applications/nds4ios.app/Icon.png
+sponsor: thebigboss.org <http://thebigboss.org>
 depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
-icon: file:///Applications/nds4ios.app/Icon.png
 
