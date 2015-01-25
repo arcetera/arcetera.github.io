@@ -13,18 +13,18 @@ name: BasicTweak
 author: Abraham Levine
 
 Package: com.arcticsn0w.markasread8
-Version: 0.0.2-1-2
+Version: 0.0.2-1-3
 Section: Tweaks
 Maintainer: arcticsn0w <arcticsn0wdev@gmail.com>
 Architecture: iphoneos-arm
-Filename: debs//com.arcticsn0w.markasread8_0.0.2-1-2_iphoneos-arm.deb
-Size: 5514
+Filename: debs//com.arcticsn0w.markasread8_0.0.2-1-3_iphoneos-arm.deb
+Size: 5516
 Installed-Size: 88
-MD5sum: 0e18157bb89c8e16bfffad0b0e672e3d
+MD5sum: 3349f58c7598d93df27bab4e92d78447
 Description: MarkAsRead7 recompiled for iOS 8. PS: I'm not the original dev. All credits go to DjKira.
 name: MarkAsRead7 (iOS 8)
-depiction: arcticsn0w.github.io/depictions?dep=com.arcticsn0w.markasread8
 author: DjKira
+depiction: arcticsn0w.github.io/depictions?dep=com.arcticsn0w.markasread8.php
 
 Package: com.reddestdream.minimalhostsblocker
 Version: 4.3.4
@@ -36,9 +36,9 @@ Filename: debs//com.reddestdream.minimalhostsblocker.deb
 Size: 5596
 MD5sum: 943fb5cfc3a46fa9432dc21c999ce038
 Description: A Minimalistic Ad Blocker!
+homepage: http://www.reddit.com/r/jailbreak/comments/2t2swb/minimal_hosts_blocker_40_released
 name: Minimal Hosts Blocker
 author: ReddestDream <reddestdream@gmail.com>
-homepage: http://www.reddit.com/r/jailbreak/comments/2t2swb/minimal_hosts_blocker_40_released
 
 Package: com.rileytestut.gba4ios
 Version: 2.1~beta1
@@ -49,9 +49,9 @@ Filename: debs//com.arcticsn0w.gba4ios.deb
 Size: 6148806
 MD5sum: e0211515521d4ae4b9c025db5bee9033
 Description: A Gameboy Advance emulator for iOS
+homepage: http://gba4iosapp.com
 name: GBA4iOS
 author: Riley Testut
-homepage: http://gba4iosapp.com
 
 Package: net.angelxwind.nds4ios
 Version: 2.0-288-gdc4bfd2
@@ -67,12 +67,12 @@ Size: 1812566
 Installed-Size: 12033
 MD5sum: 891001bcd86e05205035b93bea20bcad
 Description: multi-platform emulator, DeSmuME
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
+sponsor: thebigboss.org <http://thebigboss.org>
+dev: angelxwind
+icon: file:///Applications/nds4ios.app/Icon.png
 name: nds4ios (Stable)
 tag: purpose::uikit
-icon: file:///Applications/nds4ios.app/Icon.png
-sponsor: thebigboss.org <http://thebigboss.org>
-depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
 author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
-dev: angelxwind
-homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
+depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
 
