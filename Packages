@@ -22,24 +22,24 @@ Size: 5516
 Installed-Size: 88
 MD5sum: 3349f58c7598d93df27bab4e92d78447
 Description: MarkAsRead7 recompiled for iOS 8. PS: I'm not the original dev. All credits go to DjKira.
+depiction: arcticsn0w.github.io/depictions?dep=com.arcticsn0w.markasread8.php
 name: MarkAsRead7 (iOS 8)
 author: DjKira
-depiction: arcticsn0w.github.io/depictions?dep=com.arcticsn0w.markasread8.php
 
 Package: com.reddestdream.minimalhostsblocker
-Version: 5.0
+Version: 5.1
 Section: Tweaks
 Maintainer: arcticsn0w <arcticsn0wdev@gmail.com>
 Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic
 Architecture: iphoneos-arm
 Filename: debs//Minimal-Hosts-Blocker.deb
-Size: 38596
-MD5sum: 0d166498e1985ea31f279788e66550ce
+Size: 49368
+MD5sum: 0b49d531e69d579987ab7167bb9209e9
 Description: A minimal ad blocker!
-name: Minimal Hosts Blocker
-author: ReddestDream <reddestdream@gmail.com>
 depiction: http://arcticsn0w.github.io/repodepictions/minimalhostsblocker.html
+name: Minimal Hosts Blocker
 homepage: http://www.reddit.com/r/jailbreak/comments/2uon7v/minimal_hosts_50_released/
+author: ReddestDream <reddestdream@gmail.com>
 
 Package: com.rileytestut.gba4ios
 Version: 2.1~beta1
@@ -51,8 +51,8 @@ Size: 6148806
 MD5sum: e0211515521d4ae4b9c025db5bee9033
 Description: A Gameboy Advance emulator for iOS
 name: GBA4iOS
-author: Riley Testut
 homepage: http://gba4iosapp.com
+author: Riley Testut
 
 Package: net.angelxwind.nds4ios
 Version: 2.0-288-gdc4bfd2
@@ -68,12 +68,12 @@ Size: 1812566
 Installed-Size: 12033
 MD5sum: 891001bcd86e05205035b93bea20bcad
 Description: multi-platform emulator, DeSmuME
+depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
+tag: purpose::uikit
+icon: file:///Applications/nds4ios.app/Icon.png
+sponsor: thebigboss.org <http://thebigboss.org>
 dev: angelxwind
 name: nds4ios (Stable)
-icon: file:///Applications/nds4ios.app/Icon.png
-author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
-depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
-sponsor: thebigboss.org <http://thebigboss.org>
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
-tag: purpose::uikit
+author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
 
