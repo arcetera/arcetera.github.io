@@ -9,8 +9,8 @@ Size: 6126
 Installed-Size: 112
 MD5sum: 9bc706d627065d472aee4c111e8a5332
 Description: changes slider text because why not
-name: BasicTweak
 author: Abraham Levine
+name: BasicTweak
 
 Package: com.arcticsn0w.markasread8
 Version: 0.0.2-1-3
@@ -22,9 +22,9 @@ Size: 5516
 Installed-Size: 88
 MD5sum: 3349f58c7598d93df27bab4e92d78447
 Description: MarkAsRead7 recompiled for iOS 8. PS: I'm not the original dev. All credits go to DjKira.
-depiction: arcticsn0w.github.io/depictions?dep=com.arcticsn0w.markasread8.php
-name: MarkAsRead7 (iOS 8)
 author: DjKira
+name: MarkAsRead7 (iOS 8)
+depiction: arcticsn0w.github.io/depictions?dep=com.arcticsn0w.markasread8.php
 
 Package: com.arcticsn0w.solstice8
 Version: 1.0.2
@@ -35,23 +35,23 @@ Filename: debs//Solstice8.deb
 Size: 2667568
 MD5sum: aef110f89c205507bc3b22da2a5cba3b
 Description: Solstice (by everydayghost) updated for iOS 8! I take no credit for this; I merely updated it. You NEED IconBundles installed to use this. To theme the clock icon, you need CustomClock.
-name: Solstice8
 author: arcticsn0w <arcticsn0wdev@gmail.com>
+name: Solstice8
 
 Package: com.reddestdream.minimalhostsblocker
-Version: 5.2.1
+Version: 5.3
 Section: Tweaks
 Maintainer: arcticsn0w <arcticsn0wdev@gmail.com>
 Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic
 Architecture: iphoneos-arm
 Filename: debs//Minimal-Hosts-Blocker.deb
-Size: 66704
-MD5sum: 80f4cde8cb489d181324924ec56beeb1
+Size: 72628
+MD5sum: 81b895e3860a2dd372544cb1c2358df5
 Description: A minimal ad blocker!
-depiction: http://arcticsn0w.github.io/repodepictions/minimalhostsblocker.html
+author: ReddestDream <reddestdream@gmail.com>
 name: Minimal Hosts Blocker
 homepage: http://www.reddit.com/r/jailbreak/comments/2uon7v/minimal_hosts_50_released/
-author: ReddestDream <reddestdream@gmail.com>
+depiction: http://arcticsn0w.github.io/repodepictions/minimalhostsblocker.html
 
 Package: com.rileytestut.gba4ios
 Version: 2.1~beta1
@@ -62,9 +62,9 @@ Filename: debs//com.arcticsn0w.gba4ios.deb
 Size: 6148806
 MD5sum: e0211515521d4ae4b9c025db5bee9033
 Description: A Gameboy Advance emulator for iOS
+author: Riley Testut
 name: GBA4iOS
 homepage: http://gba4iosapp.com
-author: Riley Testut
 
 Package: net.angelxwind.nds4ios
 Version: 2.0-288-gdc4bfd2
@@ -81,11 +81,11 @@ Installed-Size: 12033
 MD5sum: 891001bcd86e05205035b93bea20bcad
 Description: multi-platform emulator, DeSmuME
 icon: file:///Applications/nds4ios.app/Icon.png
-depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
-name: nds4ios (Stable)
+author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
 dev: angelxwind
 tag: purpose::uikit
+name: nds4ios (Stable)
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
 sponsor: thebigboss.org <http://thebigboss.org>
-author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
+depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
 
