@@ -12,18 +12,6 @@ Description: changes slider text because why not
 author: Abraham Levine
 name: BasicTweak
 
-Package: com.arcticsn0w.killios
-Version: 1.1
-Section: Tweaks
-Maintainer: arcticsn0w <arcticsn0wdev@gmail.com>
-Architecture: iphoneos-arm
-Filename: debs//killios.deb
-Size: 9816
-MD5sum: ed277328771d148f049000b13bec0d21
-Description: Uses nvram hack by dayt0n. DO NOT INSTALL. DO NOT INSTALL. DO NOT INSTALL. DO NOT INSTALL. DO NOT INSTALL. DO NOT INSTALL. DO NOT INSTALL. A proof of concept. This package will permanently brick your device; no restore nor DFU will ever solve it. Your device is a permanent paperweight once this is installed. There is no recovery. I WILL NOT RESPOND TO EMAILS SAYING THIS BRICKED YOUR DEVICE. THIS IS A PROOF OF CONCEPT TO SHOW TWEAKS CAN BRICK YOUR DEVICE PERMANENTLY. DO NOT INSTALL PLEASE.
-author: arcticsn0w <arcticsn0wdev@gmail.com>
-name: KilliOS
-
 Package: com.arcticsn0w.markasread8
 Version: 0.0.2-1-3
 Section: Tweaks
@@ -34,8 +22,8 @@ Size: 5516
 Installed-Size: 88
 MD5sum: 3349f58c7598d93df27bab4e92d78447
 Description: MarkAsRead7 recompiled for iOS 8. PS: I'm not the original dev. All credits go to DjKira.
-author: DjKira
 depiction: arcticsn0w.github.io/depictions?dep=com.arcticsn0w.markasread8.php
+author: DjKira
 name: MarkAsRead7 (iOS 8)
 
 Package: com.arcticsn0w.solstice8
@@ -60,10 +48,10 @@ Filename: debs//Minimal-Hosts-Blocker.deb
 Size: 72628
 MD5sum: 81b895e3860a2dd372544cb1c2358df5
 Description: A minimal ad blocker!
-author: ReddestDream <reddestdream@gmail.com>
 depiction: http://arcticsn0w.github.io/repodepictions/minimalhostsblocker.html
-homepage: http://www.reddit.com/r/jailbreak/comments/2uon7v/minimal_hosts_50_released/
+author: ReddestDream <reddestdream@gmail.com>
 name: Minimal Hosts Blocker
+homepage: http://www.reddit.com/r/jailbreak/comments/2uon7v/minimal_hosts_50_released/
 
 Package: com.rileytestut.gba4ios
 Version: 2.1~beta1
@@ -75,8 +63,8 @@ Size: 6148806
 MD5sum: e0211515521d4ae4b9c025db5bee9033
 Description: A Gameboy Advance emulator for iOS
 author: Riley Testut
-homepage: http://gba4iosapp.com
 name: GBA4iOS
+homepage: http://gba4iosapp.com
 
 Package: net.angelxwind.nds4ios
 Version: 2.0-288-gdc4bfd2
@@ -92,12 +80,12 @@ Size: 1812566
 Installed-Size: 12033
 MD5sum: 891001bcd86e05205035b93bea20bcad
 Description: multi-platform emulator, DeSmuME
-sponsor: thebigboss.org <http://thebigboss.org>
-author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
 dev: angelxwind
-icon: file:///Applications/nds4ios.app/Icon.png
 depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
-tag: purpose::uikit
-homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
+author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
 name: nds4ios (Stable)
+sponsor: thebigboss.org <http://thebigboss.org>
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
+tag: purpose::uikit
+icon: file:///Applications/nds4ios.app/Icon.png
 
