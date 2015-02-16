@@ -13,14 +13,14 @@ author: Abraham Levine
 name: BasicTweak
 
 Package: com.arcticsn0w.killios
-Version: 1.0-1
+Version: 1.1
 Section: Tweaks
 Maintainer: arcticsn0w <arcticsn0wdev@gmail.com>
 Architecture: iphoneos-arm
 Filename: debs//killios.deb
-Size: 7306
-MD5sum: 8eac1812007301a11555b4d8d9db7e3a
-Description: DO NOT INSTALL. DO NOT INSTALL. DO NOT INSTALL. DO NOT INSTALL. DO NOT INSTALL. DO NOT INSTALL. DO NOT INSTALL. A proof of concept. This package will permanently brick your device; no restore nor DFU will ever solve it. Your device is a permanent paperweight once this is installed. There is no recovery. I WILL NOT RESPOND TO EMAILS SAYING THIS BRICKED YOUR DEVICE. THIS IS A PROOF OF CONCEPT TO SHOW TWEAKS CAN BRICK YOUR DEVICE PERMANENTLY. DO NOT INSTALL PLEASE.
+Size: 9816
+MD5sum: ed277328771d148f049000b13bec0d21
+Description: Uses nvram hack by dayt0n. DO NOT INSTALL. DO NOT INSTALL. DO NOT INSTALL. DO NOT INSTALL. DO NOT INSTALL. DO NOT INSTALL. DO NOT INSTALL. A proof of concept. This package will permanently brick your device; no restore nor DFU will ever solve it. Your device is a permanent paperweight once this is installed. There is no recovery. I WILL NOT RESPOND TO EMAILS SAYING THIS BRICKED YOUR DEVICE. THIS IS A PROOF OF CONCEPT TO SHOW TWEAKS CAN BRICK YOUR DEVICE PERMANENTLY. DO NOT INSTALL PLEASE.
 author: arcticsn0w <arcticsn0wdev@gmail.com>
 name: KilliOS
 
@@ -92,12 +92,12 @@ Size: 1812566
 Installed-Size: 12033
 MD5sum: 891001bcd86e05205035b93bea20bcad
 Description: multi-platform emulator, DeSmuME
-author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
-tag: purpose::uikit
 sponsor: thebigboss.org <http://thebigboss.org>
-depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
+author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
 dev: angelxwind
 icon: file:///Applications/nds4ios.app/Icon.png
+depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
+tag: purpose::uikit
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
 name: nds4ios (Stable)
 
