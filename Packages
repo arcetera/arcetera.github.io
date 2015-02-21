@@ -1,91 +1,103 @@
 Package: com.arcticsn0w.basictweak
 Version: 0.1~alpha0-1
-Section: Tweaks
-Maintainer: Abraham Levine
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: Abraham Levine
+Installed-Size: 112
+Depends: mobilesubstrate
 Filename: debs//com.arcticsn0w.basictweak_0.1~alpha0-1_iphoneos-arm.deb
 Size: 6126
-Installed-Size: 112
 MD5sum: 9bc706d627065d472aee4c111e8a5332
+SHA1: 64ebbac1a8f27dda1e1b2212fd4060903ce5d44a
+SHA256: 1729cff02c4618dec5cebadba8b6e5129838d13b2cdd7cd13701fe3c6428d727
+Section: Tweaks
 Description: changes slider text because why not
-author: Abraham Levine
-name: BasicTweak
+Author: Abraham Levine
+Name: BasicTweak
 
 Package: com.arcticsn0w.markasread8
 Version: 0.0.2-1-3
-Section: Tweaks
-Maintainer: arcticsn0w <arcticsn0wdev@gmail.com>
 Architecture: iphoneos-arm
+Maintainer: arcticsn0w <arcticsn0wdev@gmail.com>
+Installed-Size: 88
 Filename: debs//com.arcticsn0w.markasread8_0.0.2-1-3_iphoneos-arm.deb
 Size: 5516
-Installed-Size: 88
 MD5sum: 3349f58c7598d93df27bab4e92d78447
+SHA1: f39e4dc51c541931661435340d2f9e36e24e87fb
+SHA256: cae00e85c7ad77b562ed16be20e415c3c51450e67ed041c6346e179a483d3749
+Section: Tweaks
 Description: MarkAsRead7 recompiled for iOS 8. PS: I'm not the original dev. All credits go to DjKira.
-depiction: arcticsn0w.github.io/depictions?dep=com.arcticsn0w.markasread8.php
-author: DjKira
-name: MarkAsRead7 (iOS 8)
+Author: DjKira
+Depiction: arcticsn0w.github.io/depictions?dep=com.arcticsn0w.markasread8.php
+Name: MarkAsRead7 (iOS 8)
 
 Package: com.arcticsn0w.solstice8
 Version: 1.0.2
-Section: Themes
-Maintainer: arcticsn0w <arcticsn0wdev@gmail.com>
 Architecture: iphoneos-arm
+Maintainer: arcticsn0w <arcticsn0wdev@gmail.com>
 Filename: debs//Solstice8.deb
 Size: 2667568
 MD5sum: aef110f89c205507bc3b22da2a5cba3b
+SHA1: 58def84d1e6b5eb94c710cfb5a75bff15f14abff
+SHA256: b4711cc9017a00b89e8897fa7a34eed67ccfb3476ae65b56fc7de9333265419d
+Section: Themes
 Description: Solstice (by everydayghost) updated for iOS 8! I take no credit for this; I merely updated it. You NEED IconBundles installed to use this. To theme the clock icon, you need CustomClock.
-author: arcticsn0w <arcticsn0wdev@gmail.com>
-name: Solstice8
+Author: arcticsn0w <arcticsn0wdev@gmail.com>
+Name: Solstice8
 
 Package: com.reddestdream.minimalhostsblocker
-Version: 5.3
-Section: Tweaks
+Version: 5.4
+Architecture: iphoneos-arm
 Maintainer: arcticsn0w <arcticsn0wdev@gmail.com>
 Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic
-Architecture: iphoneos-arm
 Filename: debs//Minimal-Hosts-Blocker.deb
-Size: 72628
-MD5sum: 81b895e3860a2dd372544cb1c2358df5
+Size: 73196
+MD5sum: 383c18833909eb51160e607c9d1cc94c
+SHA1: 8a312c8fd1ea23099cf4116afc7187999d54b99c
+SHA256: 6b63e83045155ce9d31786c2bf9aecbadaaea8fb485033abe1db8371251b4d38
+Section: Tweaks
+Homepage: http://www.reddit.com/r/jailbreak/comments/2uon7v/minimal_hosts_50_released/
 Description: A minimal ad blocker!
-depiction: http://arcticsn0w.github.io/repodepictions/minimalhostsblocker.html
-author: ReddestDream <reddestdream@gmail.com>
-name: Minimal Hosts Blocker
-homepage: http://www.reddit.com/r/jailbreak/comments/2uon7v/minimal_hosts_50_released/
+Author: ReddestDream <reddestdream@gmail.com>
+Depiction: http://arcticsn0w.github.io/repodepictions/minimalhostsblocker.html
+Name: Minimal Hosts Blocker
 
 Package: com.rileytestut.gba4ios
 Version: 2.1~beta1
-Section: Games
-Maintainer: Abraham Levine
 Architecture: iphoneos-arm
+Maintainer: Abraham Levine
 Filename: debs//com.arcticsn0w.gba4ios.deb
 Size: 6148806
 MD5sum: e0211515521d4ae4b9c025db5bee9033
+SHA1: 1390e7e2744bcfd14d8d8a0e49bf0cf9b85b99f6
+SHA256: 0836737ce66f15a75a65343fbe39a17d0bfb8e17604ecfec64052f028e428ede
+Section: Games
+Homepage: http://gba4iosapp.com
 Description: A Gameboy Advance emulator for iOS
-author: Riley Testut
-name: GBA4iOS
-homepage: http://gba4iosapp.com
+Author: Riley Testut
+Name: GBA4iOS
 
 Package: net.angelxwind.nds4ios
 Version: 2.0-288-gdc4bfd2
-Priority: optional
-Section: Games
+Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 12033
 Depends: firmware (>= 5.0)
 Conflicts: com.rock88dev.nds4ios, net.angelxwind.nds4ios-testing, net.angelxwind.nds4ios-768h
 Replaces: com.rock88dev.nds4ios, net.angelxwind.nds4ios-testing, net.angelxwind.nds4ios-768h
-Architecture: iphoneos-arm
 Filename: debs//com.arcticsn0w.nds4ios.deb
 Size: 1812566
-Installed-Size: 12033
 MD5sum: 891001bcd86e05205035b93bea20bcad
+SHA1: 40b036e269765c825ed5148598631a704e1c9c04
+SHA256: abee5629de55bf7617bad1fe3101355c83d5f139361e24f68bb961abdc890796
+Section: Games
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
 Description: multi-platform emulator, DeSmuME
-dev: angelxwind
-depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
-author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
-name: nds4ios (Stable)
-sponsor: thebigboss.org <http://thebigboss.org>
-homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
-tag: purpose::uikit
-icon: file:///Applications/nds4ios.app/Icon.png
+Tag: purpose::uikit
+Author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nds4iosDp
+Dev: angelxwind
+Icon: file:///Applications/nds4ios.app/Icon.png
+Name: nds4ios (Stable)
+Sponsor: thebigboss.org <http://thebigboss.org>
 
