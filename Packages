@@ -45,15 +45,15 @@ Author: arcticsn0w <arcticsn0wdev@gmail.com>
 Name: Solstice8
 
 Package: com.reddestdream.minimalhostsblocker
-Version: 5.5
+Version: 5.5.1
 Architecture: iphoneos-arm
 Maintainer: arcticsn0w <arcticsn0wdev@gmail.com>
 Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic
 Filename: debs//Minimal-Hosts-Blocker.deb
-Size: 78952
-MD5sum: e2e1316dc8bf2434ec301b279ca071d6
-SHA1: 3405a826fc8c8a2abc776364b5e218cd993eabbe
-SHA256: e4ced150bcc6a839da4a6f6d53cb757371fb620a72c91ed1068010098bb97781
+Size: 84402
+MD5sum: ecd285d55ec92036bc4290a603fe77b1
+SHA1: c8b4a8676ca270310d3377ec3f094e97bd78ef54
+SHA256: 29356aea4b94b5dfb24ce898623a0d01cf6406cb9248cb805a53f0ce28f49042
 Section: Tweaks
 Homepage: http://www.reddit.com/r/jailbreak/comments/2uon7v/minimal_hosts_50_released/
 Description: A minimal ad blocker!
