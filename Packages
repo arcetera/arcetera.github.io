@@ -14,22 +14,6 @@ Description: changes slider text because why not
 Author: Abraham Levine
 Name: BasicTweak
 
-Package: com.arcticsn0w.betterblurdisabler
-Version: 1.0-2
-Architecture: iphoneos-arm
-Maintainer: arcticsn0w <arcticsn0wdev@gmail.com>
-Installed-Size: 72
-Depends: mobilesubstrate
-Filename: debs//com.arcticsn0w.betterblurdisabler_1.0-2_iphoneos-arm.deb
-Size: 2656
-MD5sum: b161fb3b3ec58ad4de5fdf215b3aac6e
-SHA1: e4d38553f87a0f59dfb93339754dc224e635bf1c
-SHA256: 6fab5683b52588f8e3378d9a933d1b031778ededaa18723bdca288260070942e
-Section: Tweaks
-Description: A better way to remove blurs. Makes your device's blur act like an iPhone 4/iPad 2; keeps blur in folders for example, but disables the CC/NC blur to remove lag on old devices (iPhone 4s, iPod touch 5g).
-Author: parrotgeek1, arcticsn0w <arcticsn0wdev@gmail.com>
-Name: BetterBlurDisabler
-
 Package: com.arcticsn0w.ios6completefix
 Version: 1.0
 Architecture: iphoneos-arm
