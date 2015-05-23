@@ -49,10 +49,10 @@ Architecture: iphoneos-arm
 Maintainer: arcticsn0w <arcticsn0wdev@gmail.com>
 Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic
 Filename: debs//Minimal-Hosts-Blocker.deb
-Size: 122298
-MD5sum: 1926c7d180adae917d9cde759d487f3a
-SHA1: 633e48a01f8aa23c0c1466423a4d3bc861440bcf
-SHA256: cd8c84753d56741ed71297a567cc11341cbfc1863024aa6ae2e3decbb43f27cf
+Size: 123086
+MD5sum: 66793cc1f5b34b272826e6c7d98db293
+SHA1: 7bc8c250218b4bcfde2c682b569a1f21039bd924
+SHA256: 29596997e78b3643070d2a7410996cb5b94aadc6ecc3a42bb48171be77288694
 Section: Tweaks
 Homepage: http://www.reddit.com/r/jailbreak/comments/2uon7v/minimal_hosts_50_released/
 Description: A minimal ad blocker!
