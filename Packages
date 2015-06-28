@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Abraham Levine
 Installed-Size: 112
 Depends: mobilesubstrate
-Filename: debs//com.arcticsn0w.basictweak_0.1~alpha0-1_iphoneos-arm.deb
+Filename: debs/com.arcticsn0w.basictweak_0.1~alpha0-1_iphoneos-arm.deb
 Size: 6126
 MD5sum: 9bc706d627065d472aee4c111e8a5332
 SHA1: 64ebbac1a8f27dda1e1b2212fd4060903ce5d44a
@@ -19,7 +19,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: arcticsn0w <arcticsn0wdev@gmail.com>
 Depends: org.thebigboss.ios6completetheme, com.anemonetheming.anemone
-Filename: debs//iOS 6 Complete Fix.deb
+Filename: debs/iOS 6 Complete Fix.deb
 Size: 1256
 MD5sum: a4214b05766970d9d59cc86a8cd21fd4
 SHA1: 53e3b23b4a8b3f09dd1dc4bf1a7ac9cff0e092c2
@@ -33,7 +33,7 @@ Package: com.arcticsn0w.solstice8
 Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: arcticsn0w <arcticsn0wdev@gmail.com>
-Filename: debs//Solstice8.deb
+Filename: debs/Solstice8.deb
 Size: 2667568
 MD5sum: aef110f89c205507bc3b22da2a5cba3b
 SHA1: 58def84d1e6b5eb94c710cfb5a75bff15f14abff
@@ -44,15 +44,15 @@ Author: arcticsn0w <arcticsn0wdev@gmail.com>
 Name: Solstice8
 
 Package: com.reddestdream.minimalhostsblocker
-Version: 6.0-1
+Version: 6.1
 Architecture: iphoneos-arm
-Maintainer: arcticsn0w <arcticsn0wdev@gmail.com>
+Maintainer: arcetera <arcticsn0wdev@gmail.com>
 Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic
-Filename: debs//Minimal-Hosts-Blocker.deb
-Size: 123086
-MD5sum: 66793cc1f5b34b272826e6c7d98db293
-SHA1: 7bc8c250218b4bcfde2c682b569a1f21039bd924
-SHA256: 29596997e78b3643070d2a7410996cb5b94aadc6ecc3a42bb48171be77288694
+Filename: debs/Minimal-Hosts-Blocker.deb
+Size: 38774
+MD5sum: b29f81bc97f7a30bf4ff956fafc8b717
+SHA1: d4398347e317088f19c4ad974ae7fcca8ab1118b
+SHA256: bacb746345790febd5d654204f38f2d66035875f72fdf501353f7360077d6e22
 Section: Tweaks
 Homepage: http://www.reddit.com/r/jailbreak/comments/2uon7v/minimal_hosts_50_released/
 Description: A minimal ad blocker!
@@ -64,7 +64,7 @@ Package: com.rileytestut.gba4ios
 Version: 2.1~beta1
 Architecture: iphoneos-arm
 Maintainer: Abraham Levine
-Filename: debs//com.arcticsn0w.gba4ios.deb
+Filename: debs/com.arcticsn0w.gba4ios.deb
 Size: 6148806
 MD5sum: e0211515521d4ae4b9c025db5bee9033
 SHA1: 1390e7e2744bcfd14d8d8a0e49bf0cf9b85b99f6
@@ -83,7 +83,7 @@ Installed-Size: 12033
 Depends: firmware (>= 5.0)
 Conflicts: com.rock88dev.nds4ios, net.angelxwind.nds4ios-testing, net.angelxwind.nds4ios-768h
 Replaces: com.rock88dev.nds4ios, net.angelxwind.nds4ios-testing, net.angelxwind.nds4ios-768h
-Filename: debs//com.arcticsn0w.nds4ios.deb
+Filename: debs/com.arcticsn0w.nds4ios.deb
 Size: 1812566
 MD5sum: 891001bcd86e05205035b93bea20bcad
 SHA1: 40b036e269765c825ed5148598631a704e1c9c04
