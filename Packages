@@ -44,6 +44,22 @@ Author: arcticsn0w <arcticsn0wdev@gmail.com>
 Name: Solstice8
 
 Package: com.reddestdream.minimalhostsblocker
+Version: 6.3
+Architecture: iphoneos-arm
+Maintainer: arcetera <arc@arcetera.party>
+Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic
+Filename: debs/Minimal-Hosts-Blocker 63.deb
+Size: 52598
+MD5sum: 96843ec1965845ea31eedd341b4efef0
+SHA1: 702fdc4af31e6e55cbead5178d5786de6cba3b76
+SHA256: 4bd7647c47e171d50518d258ce55ab230c0978c57cbd0ec13ccc40a1e2912db0
+Section: Tweaks
+Description: A minimal ad blocker!
+Author: ReddestDream <reddestdream@gmail.com>
+Depiction: http://arcetera.github.io/repodepictions/info/com.reddestdream.minimalhostsblocker/index.html
+Name: Minimal Hosts Blocker
+
+Package: com.reddestdream.minimalhostsblocker
 Version: 6.2
 Architecture: iphoneos-arm
 Maintainer: arcetera <arc@arcetera.party>
@@ -95,15 +111,15 @@ Depiction: http://arcticsn0w.github.io/repodepictions/info/com.reddestdream.mini
 Name: Minimal Hosts Blocker
 
 Package: com.reddestdream.minimalhostsblocker
-Version: 6.3
+Version: 6.4
 Architecture: iphoneos-arm
 Maintainer: arcetera <arc@arcetera.party>
 Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic
 Filename: debs/Minimal-Hosts-Blocker.deb
-Size: 52598
-MD5sum: 96843ec1965845ea31eedd341b4efef0
-SHA1: 702fdc4af31e6e55cbead5178d5786de6cba3b76
-SHA256: 4bd7647c47e171d50518d258ce55ab230c0978c57cbd0ec13ccc40a1e2912db0
+Size: 58748
+MD5sum: 190d3001ddb2296476ff01b65697cdaf
+SHA1: 3bfdc62a64edd0ac582306c9e614dbbaa8d1d0c1
+SHA256: 2a3caf0e8bf4be40a44193dc4f51c26ff81e6204643f4f25b9ad60d9c494f890
 Section: Tweaks
 Description: A minimal ad blocker!
 Author: ReddestDream <reddestdream@gmail.com>
