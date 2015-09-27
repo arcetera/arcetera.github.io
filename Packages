@@ -191,15 +191,15 @@ Depiction: http://arcetera.github.io/repodepictions/info/com.reddestdream.minima
 Name: Minimal Hosts Blocker
 
 Package: com.reddestdream.minimalhostsblocker
-Version: 7.0
+Version: 7.0-1
 Architecture: iphoneos-arm
-Maintainer: arcetera <arcticsn0wdev@gmail.com>
+Maintainer: arcetera <arc@plusreed.com>
 Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic
 Filename: debs/MHB.deb
-Size: 86658
-MD5sum: f0dbcd6b7810257eab9c01efc6471465
-SHA1: 31bcf309a3cc802ba1c17b8ef09a5219b22438a1
-SHA256: 00e446c861e67b4a450d44cd6164eb89f7a35d60db6f5c20ee566c71d4b26259
+Size: 94294
+MD5sum: 407bca9d3939f1b439271fe721035ada
+SHA1: f5c633c8becae1f71d5c048aa6bd001997cb6e67
+SHA256: a08334f40c6de375621615b5597e12ab357ce29f90abbcf09db33875847dc0e5
 Section: Tweaks
 Description: A minimal ad blocker!
 Author: ReddestDream <reddestdream@gmail.com>
