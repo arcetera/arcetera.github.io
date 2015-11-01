@@ -43,6 +43,38 @@ Description: Solstice (by everydayghost) updated for iOS 8! I take no credit for
 Author: arcticsn0w <arcticsn0wdev@gmail.com>
 Name: Solstice8
 
+Package: com.reddestdream.mhbcb
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: arcetera <arc@plusreed.com>
+Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic, com.reddestdream.minimalhostsblocker
+Filename: debs/MHB-CB.deb
+Size: 7924
+MD5sum: dc3f76f4ff39ba3297638be3a994cb7e
+SHA1: 097bc5adc62b9d299071d1c31599d1c8b4a2cb39
+SHA256: 9b11b1a25d876f8ec237430c26cf2bfb534009f52e60b41c6e1d611c557a7dc7
+Section: Tweaks
+Description: Minimal Hosts Blocker designed to be used with a Content Blocker.
+Author: ReddestDream <reddestdream@gmail.com>
+Depiction: http://arcetera.github.io/repodepictions/info/com.reddestdream.mhbcb/index.html
+Name: Minimal Hosts Blocker CB
+
+Package: com.reddestdream.minimalhostsblocker
+Version: 7.0.1
+Architecture: iphoneos-arm
+Maintainer: arcetera <arc@plusreed.com>
+Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic
+Filename: debs/MHB701.deb
+Size: 95846
+MD5sum: 449741c97671b4883a200344606cf322
+SHA1: 410efa8f45ebd9dd56a3e69c53dbb18679c6aeff
+SHA256: 18e53538617153d90cc1e22e09ea29869cf76bd95f4027df7a1256909ebb5d8e
+Section: Tweaks
+Description: A minimal ad blocker!
+Author: ReddestDream <reddestdream@gmail.com>
+Depiction: http://arcetera.github.io/repodepictions/info/com.reddestdream.minimalhostsblocker/index.html
+Name: Minimal Hosts Blocker
+
 Package: com.reddestdream.minimalhostsblocker
 Version: 6.1
 Architecture: iphoneos-arm
@@ -191,15 +223,15 @@ Depiction: http://arcetera.github.io/repodepictions/info/com.reddestdream.minima
 Name: Minimal Hosts Blocker
 
 Package: com.reddestdream.minimalhostsblocker
-Version: 7.0.1
+Version: 7.1
 Architecture: iphoneos-arm
 Maintainer: arcetera <arc@plusreed.com>
 Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic
 Filename: debs/MHB.deb
-Size: 95846
-MD5sum: 449741c97671b4883a200344606cf322
-SHA1: 410efa8f45ebd9dd56a3e69c53dbb18679c6aeff
-SHA256: 18e53538617153d90cc1e22e09ea29869cf76bd95f4027df7a1256909ebb5d8e
+Size: 95984
+MD5sum: 687db7162f5610da983d55d65ff4d74c
+SHA1: a1f968291019bce67341f4fdf56a9f47bf5db8c2
+SHA256: a871aa4f06302aee7c6ebd8e603fcaaca6c62c13458b7384875d8399f13e308f
 Section: Tweaks
 Description: A minimal ad blocker!
 Author: ReddestDream <reddestdream@gmail.com>
